@@ -10,7 +10,7 @@ Träna Git: http://try.github.io/
 
 Movie search: https://scrimba.com/learn/reactmovie
 
-Marshallow Challenge: https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team/transcript
+Marshmallow Challenge: https://www.ted.com/talks/tom_wujec_build_a_tower_build_a_team/transcript
 
 ## Artiklar
 
