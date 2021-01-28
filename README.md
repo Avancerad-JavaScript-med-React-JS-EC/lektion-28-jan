@@ -17,6 +17,10 @@ Cheatsheet: http://www.developer-cheatsheets.com/redux
 
 ## Inspelningar
 
+Förmiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/ETFdpTz5y0JOpYYqVo-wr70BqWKNIAP9rokvd7X1MOysDQ?e=vfAfw5
+
+Eftermiddag: https://academediase.sharepoint.com/:v:/s/Frontend20Helsingborg/EdRBRYdyv-RCj25JQ83-q5YBq0N5mFZFfqXKIQtmigOgqg?e=CZ1vQe
+
 ## Tidigare lektioner
 
 https://github.com/Avancerad-JavaScript-med-React-JS-EC/?q=lektion&type=&language=
