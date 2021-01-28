@@ -13,6 +13,7 @@ Movie search: https://scrimba.com/learn/reactmovie
 ## Artiklar
 
 Hämta värde från input: https://flaviocopes.com/react-how-to-get-value-input/
+Cheatsheet: http://www.developer-cheatsheets.com/redux
 
 ## Inspelningar
 
