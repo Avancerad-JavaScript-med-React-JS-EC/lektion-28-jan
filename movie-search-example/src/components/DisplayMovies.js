@@ -1,5 +1,6 @@
 import React from 'react';
-//Denna hook hämtar data från vår redux store
+//Denna hook hämtar data från vår redux store. Det går även att använda getState() eller 
+//connect för att hämta från redux store.
 import { useSelector } from 'react-redux';
 import MovieCard from './MovieCard';
 
@@ -14,7 +15,7 @@ function DisplayMovies() {
             {/* Loopa igenom movies med hjälp av map och för varje movie skapa en komponent
             MovieCard och skicka movie som en prop. Key måste vara unikt och används av React
             för att hålla kolla på alla MovieCard komponenter. */}
-            { movies.map((movie) => {
+            { movies && movies.map((movie) => {
                 return <MovieCard movie={ movie } key={ movie.imdbID } />
             })}
         </section>

@@ -1,3 +1,5 @@
+//Vi behöver inte importera något här för det är enbart en vanilla JS funktion
+
 let initialState = {
     movies: []
 }
